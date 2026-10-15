@@ -5,7 +5,7 @@
 I design and ship multi-agent AI systems that do real enterprise work: configure ERP systems, write delivery documents, triage defects and plan workforces. 18+ years in enterprise transformation means I build for the business problem first, then the AI.
 
 🌐 **Portfolio:** https://neetisingh-ai.github.io
-💼 **LinkedIn:** https://linkedin.com/in/neeti-8454417b
+💼 **LinkedIn:** https://www.linkedin.com/in/neetisingh-8454417b
 ✍️ **Newsletter:** *AI in Practice*, fortnightly on LinkedIn
 📍 Delhi NCR, India
 
